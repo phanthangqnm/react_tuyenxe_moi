@@ -1,0 +1,6 @@
+[
+  {"id": 1,  "name": "Nguyễn Văn A", "phone" : "333333", "diemdon": "Tam Kỳ", "diemtra" : "Đà Nẵng", "tuyenxeinfo_code" : "1_1_22/06/2025"},
+  {"id": 2,  "name": "Nguyễn Văn B", "phone" : "333334444443", "diemdon": "Tam Kỳ", "diemtra" : "Đà Nẵng", "tuyenxeinfo_code" : "1_1_22/06/2025"},
+  {"id": 3,  "name": "Nguyễn Văn C", "phone" : "222222", "diemdon": "Tam Kỳ", "diemtra" : "Đà Nẵng", "tuyenxeinfo_code" : "1_1_22/06/2025"},
+  {"id": 4,  "name": "Nguyễn Văn D", "phone" : "55555", "diemdon": "Tam Kỳ", "diemtra" : "Đà Nẵng", "tuyenxeinfo_code" : "1_1_22/06/2025"}
+]

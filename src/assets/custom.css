@@ -1,0 +1,33 @@
+.react-datepicker-wrapper{
+    width: 100%;
+}
+
+.react-datepicker-wrapper [type='text']{
+    border: 1px solid #d1d5dd;
+}
+
+.table {
+    --bs-table-bg: #0000;
+    --bs-table-accent-bg: #fff;
+    --bs-table-striped-color: #526484;
+    --bs-table-striped-bg: #0000000d;
+    --bs-table-active-color: #526484;
+    --bs-table-active-bg: #f5f6fa;
+    --bs-table-hover-color: #526484;
+    --bs-table-hover-bg: #f5f6fa;
+    border-color: #dbdfea;
+    color: #526484;
+    margin-bottom: 1rem;
+    vertical-align: top;
+    width: 100%;
+}
+
+.v-center {
+    vertical-align: middle;
+}
+.table1line td, .table1line th {
+    overflow: hidden;
+    padding: 8px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

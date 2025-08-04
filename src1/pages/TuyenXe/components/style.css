@@ -1,0 +1,111 @@
+
+
+.page-hd-content h2, .page-hd-content h3{
+    margin: 0px;
+    line-height: 1.6;
+}
+
+.container.page-hd-content {
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+    font-size: 16px;
+    font-family: "Times New Roman", serif;
+    /* margin: 40px; */
+}
+
+.page-hd-content .header-left {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-style: italic;
+    font-size: 13px;
+}
+
+.page-hd-content .header-center {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.page-hd-content .law-ref {
+    margin-left: 0;
+    padding-left: 20px;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.page-hd-content .date {
+    text-align: right;
+    font-style: italic;
+    font-size: 13px;
+}
+
+.page-hd-content h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.page-hd-content .info-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.page-hd-content .info-table th,
+.page-hd-content .info-table td {
+    border: 1px solid #000;
+    padding: 2px;
+    text-align: center;
+}
+
+.page-hd-content .info-table th {
+    background-color: #f0f0f0;
+}
+
+/* .content-hd::before {
+    content: "CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI VẬN TẢI NĂM SAO";
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    position: absolute;
+    left: -30px;
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+} */
+
+.page-hd-content .info-split {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.page-hd-content .info-split>div {
+    width: 48%;
+}
+
+.page-hd-content p {
+    padding: 0px;
+    margin: 0px;
+}
+
+.page-hd-content ul {
+    /* padding: 0px; */
+    margin: 0px 10px;
+}
+
+.page-hd-content .content-hd {
+    position: relative;
+    font-size: 13px;
+    min-height: 650px;
+}
+
+.doithongtin{
+    cursor: pointer;
+    border-bottom: 1px solid #fff567;
+}
+
+.doithongtin:hover{
+    /* background: #eaecef; */
+    border-bottom: 1px dotted #e90a0a;
+}
